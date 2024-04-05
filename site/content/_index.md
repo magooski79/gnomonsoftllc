@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "One Headline a Day"
+subtitle: "Read, Think, Share"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
