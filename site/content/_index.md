@@ -1,6 +1,6 @@
 ---
-title: "One Headline a Day"
-subtitle: "Read, Think, Share"
+title: "Gnomonsoft LLC"
+subtitle: "Digital Clarity for your small business or non-profit"
 image: /img/NewsPapersColor.jpg
 blurb:
     heading: Why Kaldi?
